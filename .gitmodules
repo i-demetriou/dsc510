@@ -1,0 +1,3 @@
+[submodule "project"]
+	path = project
+	url = git@github.com:i-demetriou/dsc510-group-project.git
