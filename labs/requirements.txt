@@ -1,3 +1,7 @@
+category_encoders
+jupytext
+matplotlib
+mlxtend
 notebook
 numpy
 pandas
